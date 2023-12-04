@@ -1,0 +1,43 @@
+.container-fluid
+{
+  margin: auto;
+  padding: 10px; 
+  margin-bottom: 50px;
+  border: 1px solid black;
+  position: static;
+  justify-content: center;
+  text-align: center;
+  
+}
+input
+{
+    width: 50%;
+    border: 1px solid black;
+    background: linear-gradient(to right,#d0c4c4, #a1e5a1);
+    color:black;
+    height: 40px;
+    border-radius: 6px;
+    font-size: 18px;
+    
+}
+span
+{
+    font-weight: bold;
+    color: white;
+}
+h2,h4
+{
+    font-size: 20px;
+    color: white;
+}
+data
+{
+    width: 400px;
+    margin: 80px;
+    justify-content: center;
+    text-align: center;
+}
+body
+{
+    background-color: black;
+}
